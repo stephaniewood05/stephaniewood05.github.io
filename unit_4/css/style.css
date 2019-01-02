@@ -1,0 +1,33 @@
+h1 {
+	padding: 10px;
+	font-family: 'Abril Fatface', cursive;
+	font-size: 45px;
+}
+
+h2 {
+	font-family: 'Abril Fatface', cursive;
+	color: #000;
+}
+
+body {
+	padding-top: 25px;
+	text-align: center;
+  	background: url("https://i.imgur.com/PxhwVgO.jpg");
+  	background-size: cover;
+  	color: #fff;
+  	font-family: Helvetica;
+}
+
+ul {
+	text-align: center;
+	list-style-type: none;
+	padding: 15px;
+	text-indent: none;
+}
+
+h3 {
+	font-family: 'Open Sans', sans-serif;
+	font-style: italic;
+	font-size: 20px;
+}
+
