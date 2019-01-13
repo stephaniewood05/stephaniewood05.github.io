@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather:700|Montserrat');
+
+
+* {
+	padding:0;
+	margin:0 auto;
+}
+
+body {
+	vertical-align: center;
+	text-align: center;
+	font-size: 16px;
+	color: #222222;
+}
+
+h1 {
+	font-family: 'Merriweather', serif;
+	font-weight: bold;
+	width: 25em auto;
+	text-align: center fixed;
+	vertical-align: center;
+	padding-top: 5em;
+	position: fixed center;
+}
+
+p, li {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 1em;
+}
+
+header img {
+	width:120px;
+	padding-top:2em;
+	padding-left: 2em;
+	padding-bottom: ;
+	vertical-align: left auto;
+	float: left;
+	display: inline;
+}
+
+section {
+	padding-top: 3em;
+	padding-bottom: 3em;
+	vertical-align: center;
+	text-align: center;
+	width: 35em;
+}
+
+section img {
+	width: 100%;
+	padding-bottom: 1em;
+	vertical-align: fixed center;
+	position: fixed center;
+
+}
+
+header {
+	background: url("https://imgur.com/xYr5kwF.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position:fixed center;
+	height: 100%;
+}
+
+nav {
+	text-align: right;
+	position: top;
+	vertical-align: top;
+	word-spacing: 1.5em;
+	padding: 2em;
+	display: inline;
+	float: right;
+}
+
+main {
+	background-color:#cccccc;
+	padding-top: 3em;
+}
+
+table {
+	table-layout: auto;
+	width: 300px;
+	margin: auto;
+	padding: 50px;
+	text-align: center;
+}
+
+div {
+	padding-top: none;
+}
+
+li {
+	padding-bottom: .5em;
+}
+
+ul {
+	list-style:square;
+	padding-bottom: 3em
+}
+
+
+
+footer {
+	padding: 50px;
+	background-color:#222222;
+}
+
+footer h5 {
+	color: white;
+	display: inline;
+}
+
+footer p {
+	display: inline;
+	color: white;
+}
+
+footer a {
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+hr {
+	width:1em;
+	height: 1em;
+	border: 1em black;
+	text-align: center;
+	padding: 3em;
+}
+
+div p {
+	padding-bottom: 3em;
+}
