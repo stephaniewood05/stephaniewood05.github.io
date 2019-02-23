@@ -283,10 +283,104 @@ color: grey;
 }
 
 
-@media only screen and (max-width: 1080px) {
+
+
+
+
+
+@media only screen and (max-width: 1352px) {
+	main {
+		background-color:#cccccc;
+		padding: 2% 2% 2% 2%;
+	}
+
+	#left {
+    padding: 20% auto;
+    margin-left: 6em;
+    float: left;
+    width: 40%;
+    clear: both;
+    text-align: left;
+}
+
+	#right {
+    padding: 20% auto;
+    margin-right: 2em;
+    float: right;   
+    width: 40%;
+    text-decoration: none;
+    text-align: left;
+    clear: none;
+    }
+
+}
+
+
+
+@media only screen and (max-width: 1280px) {
 	h1 {
 		width: 60%;
-		padding-top: 4.5em;
-
+		padding-top: 2.1em;
 	}
+
+	div {
+		padding: .5em 1em .5em 1em;
+		display: inline-block;
+	}
+
+	#two_column {
+    	padding: 5% 4% 5% 4%;
+}
+
+#left {
+    padding: 20% auto;
+    margin-left: 11em;
+    float: left;
+    width: 30%;
+    clear: both;
+    text-align: left;
+}
+
+#right {
+    padding: 20% auto;
+    margin-right: 3em;
+    float: right;   
+    width: 30%;
+    text-decoration: none;
+    text-align: left;
+    clear: none;
+    }
+
+nav {
+	padding: 2em;
+	}
+}
+
+
+
+
+@media only screen and (max-width: 1080px) {
+	#two_column {
+    	padding: 5% 6% 5% 6%;
+}
+
+#left {
+    padding: 30% auto;
+    margin-left: 8em;
+    float: left;
+    width: 30%;
+    clear: both;
+    text-align: left;
+}
+
+#right {
+    padding: 30% auto;
+    margin-right: 12em;
+    float: right;   
+    width: 30%;
+    text-decoration: none;
+    text-align: left;
+    clear: none;
+    }
+
 }
